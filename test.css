@@ -1,0 +1,14 @@
+.centered{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #000000;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
